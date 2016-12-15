@@ -4,6 +4,6 @@
     "version": "0.1.0",
     "command": "C:\\MinGW\\bin\\g++.exe",
     "isShellCommand": true,
-    "args": ["-g" , "project\\main.cpp"],
+    "args": ["-g" , "project\\main.cpp","project\\TestClass1.h", "project\\TestClass1.cpp"],
     "showOutput": "always"
 }

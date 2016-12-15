@@ -8,5 +8,5 @@ TestClass1::TestClass1()
 // implementation of "method"
 int TestClass1::method()
 {
-  return member++;
+  return this->member++;
 }
