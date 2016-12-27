@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include "TestClass1.h"
+#include "signalrclient\stdafx.h"
+#include "signalrclient\connection.h"
+#include <iostream>
 
 int main(int argc, char **argv)
 {
