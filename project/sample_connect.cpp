@@ -1,7 +1,8 @@
-#include "stdafx.h"
-#include "signalrclient\connection.h"
+//#include "stdafx.h"
+#include "connection.h"
 #include <iostream>
 
+/*
 void send_message(signalr::connection &connection, const utility::string_t& message)
 {
     connection.send(message)
@@ -59,3 +60,4 @@ int main()
 
     return 0;
 }
+*/
