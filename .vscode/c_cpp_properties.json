@@ -18,7 +18,7 @@
         },
         {
             "name": "Win32",
-            "includePath": ["C:\\MinGW\\include"],
+            "includePath": ["C:\\MinGW\\include","$(VCInstallDir)include"],
             "browse" : {
                 "limitSymbolsToIncludedHeaders" : true,
                 "databaseFilename" : ""
